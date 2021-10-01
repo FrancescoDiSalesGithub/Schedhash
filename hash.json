@@ -1,0 +1,49 @@
+{
+    "hash":[
+        
+        {
+            "category":"Raw Hash",
+            "subject":[
+                {
+                    "code":900,
+                    "name":"MD4"
+                },
+                {
+                    "code":0,
+                    "name":"MD5"
+                },
+                {
+                    "code":100,
+                    "name":"SHA1"
+                },
+                {
+                    "code":1300,
+                    "name":"SHA2-224"
+                },
+                {
+                    "code":1400,
+                    "name":"SHA2-256"
+                },
+                {
+                    "code":10800,
+                    "name":"SHA2-384"
+                },
+                {
+                    "code":1700,
+                    "name":"SHA2-512"
+                },
+                {
+                    "code":17300,
+                    "name":"SHA3-224"
+                },
+                {
+                    "code":17400,
+                    "name":"SHA3-256"
+                },
+                {
+                    "code":17500,
+                    "name":"SHA2-384"
+                }]
+        }]
+}
+
