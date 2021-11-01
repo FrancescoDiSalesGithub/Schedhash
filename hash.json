@@ -43,7 +43,252 @@
                 {
                     "code":17500,
                     "name":"SHA2-384"
+                },
+                {
+                    "code":17600,
+                    "name":"SHA3-512"
+                },
+                {
+                    "code":17700,
+                    "name":"Keccak-224"
+                },
+                {
+                    "code":17800,
+                    "name":"Keccak-256"
+                },
+                {
+                    "code":17900,
+                    "name":"Keccak-384"
+                },
+                {
+                    "code":18000,
+                    "name":"Keccak-512"
+                },
+                {
+                    "code":600,
+                    "name":"BLAKE2b-512"
+                },
+                {
+                    "code":10100,
+                    "name":"SipHash"
+                },
+                {
+                    "code":6000,
+                    "name":"RIPEMD-160"
+                },
+                {
+                    "code":6100,
+                    "name":"Whirlpool"
+                },
+                {
+                    "code":6900,
+                    "name":"GOST R 34.11-94"
+                },
+                {
+                    "code":11700,
+                    "name":"GOST R 34.11-2012 (Streebog) 256-bit, big-endian"
+                },
+                {
+                    "code":11800,
+                    "name":"GOST R 34.11-2012 (Streebog) 512-bit, big-endian"
                 }]
-        }]
+        },
+        {
+
+            "category":"Raw Hash, Salted and/or Iterated",
+            "subject":[
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                },
+                {
+                    "code":10,
+                    "name":"md5($pass.$salt)"
+                }
+            ]
+        },
+        {
+            "category":"Raw Hash, Authenticated",
+            "subject":[
+                {
+                    "code":"",
+                    "name":""
+                }
+            ]
+        },
+        {
+            "category":"Raw Cipher, Known-Plaintext attack",
+            "subject":[]
+        },
+        {
+            "category":"Generic KDF",
+            "subject":[]
+        },
+        {
+            "category":"Network Protocols",
+            "subject":[]
+        },
+        {
+            "category":"Forums, CMS, E-Commerce, Frameworks",
+            "subject":[]
+        },
+        {
+            "category":"Database Server",
+            "subject":[]
+        },
+        {
+            "category":"HTTP, SMTP, LDAP Server",
+            "subject":[]
+        },
+        {
+            "category":"FTP Server",
+            "subject":[]
+        },
+        {
+            "category":"Checksums",
+            "subject":[]
+        },
+        {
+            "category":"Operating Systems",
+            "subject":[]
+        },
+        {
+            "category":"Enterprise Application Software (EAS)",
+            "subject":[]
+        },
+        {
+            "category":"Archives",
+            "subject":[]
+        },
+        {
+            "category":"Backup",
+            "subject":[]
+        },
+        {
+            "category":"Full-Disk Encryption (FDE)",
+            "subject":[]
+        },
+        {
+            "category":"Documents",
+            "subject":[]
+        },
+        {
+            "category":"Password Managers",
+            "subject":[]
+        },
+        {
+            "category":"One-Time Passwords",
+            "subject":[]
+        },
+        {
+            "category":"Plaintext",
+            "subject":[]
+        }
+
+    ]
 }
 
