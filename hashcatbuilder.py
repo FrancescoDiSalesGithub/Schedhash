@@ -13,11 +13,9 @@ class hashcat_builder:
            
 
     def show_category(self):
-        automatic_index=0
-
+        
         for i in self.__json_data['hash']:
-            automatic_index+=1
-            print( "{} - {}".format(str(automatic_index),str(i['category'])) )
+            print( "{} - {}".format(str(i['index']),str(i['category'])) )
 
     def show_actions(self):
         pass
